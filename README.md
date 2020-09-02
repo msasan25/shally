@@ -1,2 +1,2 @@
 # shally
-// recipe test//
+git demo(test)
